@@ -1,0 +1,1091 @@
+{
+  "passed": true,
+  "rounds": 5,
+  "elapsed_seconds": 43.138338300050236,
+  "silence_segments": 0,
+  "noise_segments": 0,
+  "health": {
+    "completed": 80,
+    "errors": 0,
+    "expired": 0,
+    "dropped": 0,
+    "pending": 0,
+    "processing": false
+  },
+  "records": [
+    {
+      "file": "artifacts\\audio\\en.wav",
+      "audio_seconds": 9.5580625,
+      "asr_seconds": 1.0417842000024393,
+      "segments": 2,
+      "round": 1,
+      "language": "en",
+      "end_to_end_seconds": 3.6499265000456944,
+      "source_chrf": 100.0,
+      "source_text": "Hello everyone. This is an offline translation test. The tablet shows the conversation in English, Hebrew, and Russian.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\he.mp3",
+      "audio_seconds": 9.144,
+      "asr_seconds": 0.5448927999241278,
+      "segments": 4,
+      "round": 1,
+      "language": "he",
+      "end_to_end_seconds": 3.546991200069897,
+      "source_chrf": 94.79355378370515,
+      "source_text": "שלום לכולם. זהו מבחן תרגום מקומי. הטבלט מציג את השיחה בעברית, באנגלית וברוסית.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\ru.mp3",
+      "audio_seconds": 9.792,
+      "asr_seconds": 0.5265391999855638,
+      "segments": 2,
+      "round": 1,
+      "language": "ru",
+      "end_to_end_seconds": 2.4874323999974877,
+      "source_chrf": 96.30190800190766,
+      "source_text": "Здравствуйте! Это проверка перевода без интернета. Планшет показывает разговор на русском, английском и иврите.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\en.wav",
+      "audio_seconds": 9.5580625,
+      "asr_seconds": 0.48246269999071956,
+      "segments": 2,
+      "round": 2,
+      "language": "en",
+      "end_to_end_seconds": 2.708637500065379,
+      "source_chrf": 100.0,
+      "source_text": "Hello everyone. This is an offline translation test. The tablet shows the conversation in English, Hebrew, and Russian.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\he.mp3",
+      "audio_seconds": 9.144,
+      "asr_seconds": 0.5326966000720859,
+      "segments": 4,
+      "round": 2,
+      "language": "he",
+      "end_to_end_seconds": 3.3574896999634802,
+      "source_chrf": 94.79355378370515,
+      "source_text": "שלום לכולם. זהו מבחן תרגום מקומי. הטבלט מציג את השיחה בעברית, באנגלית וברוסית.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\ru.mp3",
+      "audio_seconds": 9.792,
+      "asr_seconds": 0.5031366000184789,
+      "segments": 2,
+      "round": 2,
+      "language": "ru",
+      "end_to_end_seconds": 2.343724000034854,
+      "source_chrf": 96.30190800190766,
+      "source_text": "Здравствуйте! Это проверка перевода без интернета. Планшет показывает разговор на русском, английском и иврите.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\en.wav",
+      "audio_seconds": 9.5580625,
+      "asr_seconds": 0.4884221999673173,
+      "segments": 2,
+      "round": 3,
+      "language": "en",
+      "end_to_end_seconds": 2.812833399977535,
+      "source_chrf": 100.0,
+      "source_text": "Hello everyone. This is an offline translation test. The tablet shows the conversation in English, Hebrew, and Russian.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\he.mp3",
+      "audio_seconds": 9.144,
+      "asr_seconds": 0.5582311999751255,
+      "segments": 4,
+      "round": 3,
+      "language": "he",
+      "end_to_end_seconds": 3.33054169989191,
+      "source_chrf": 94.79355378370515,
+      "source_text": "שלום לכולם. זהו מבחן תרגום מקומי. הטבלט מציג את השיחה בעברית, באנגלית וברוסית.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\ru.mp3",
+      "audio_seconds": 9.792,
+      "asr_seconds": 0.48335709993261844,
+      "segments": 2,
+      "round": 3,
+      "language": "ru",
+      "end_to_end_seconds": 2.3273523999378085,
+      "source_chrf": 96.30190800190766,
+      "source_text": "Здравствуйте! Это проверка перевода без интернета. Планшет показывает разговор на русском, английском и иврите.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\en.wav",
+      "audio_seconds": 9.5580625,
+      "asr_seconds": 0.4531030999496579,
+      "segments": 2,
+      "round": 4,
+      "language": "en",
+      "end_to_end_seconds": 2.627055099932477,
+      "source_chrf": 100.0,
+      "source_text": "Hello everyone. This is an offline translation test. The tablet shows the conversation in English, Hebrew, and Russian.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\he.mp3",
+      "audio_seconds": 9.144,
+      "asr_seconds": 0.5171949000796303,
+      "segments": 4,
+      "round": 4,
+      "language": "he",
+      "end_to_end_seconds": 3.373791699996218,
+      "source_chrf": 94.79355378370515,
+      "source_text": "שלום לכולם. זהו מבחן תרגום מקומי. הטבלט מציג את השיחה בעברית, באנגלית וברוסית.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\ru.mp3",
+      "audio_seconds": 9.792,
+      "asr_seconds": 0.476000800030306,
+      "segments": 2,
+      "round": 4,
+      "language": "ru",
+      "end_to_end_seconds": 2.3291636999929324,
+      "source_chrf": 96.30190800190766,
+      "source_text": "Здравствуйте! Это проверка перевода без интернета. Планшет показывает разговор на русском, английском и иврите.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\en.wav",
+      "audio_seconds": 9.5580625,
+      "asr_seconds": 0.46691820002160966,
+      "segments": 2,
+      "round": 5,
+      "language": "en",
+      "end_to_end_seconds": 2.6180627999128774,
+      "source_chrf": 100.0,
+      "source_text": "Hello everyone. This is an offline translation test. The tablet shows the conversation in English, Hebrew, and Russian.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\he.mp3",
+      "audio_seconds": 9.144,
+      "asr_seconds": 0.5060092000057921,
+      "segments": 4,
+      "round": 5,
+      "language": "he",
+      "end_to_end_seconds": 3.161950399982743,
+      "source_chrf": 94.79355378370515,
+      "source_text": "שלום לכולם. זהו מבחן תרגום מקומי. הטבלט מציג את השיחה בעברית, באנגלית וברוסית.",
+      "passed": true
+    },
+    {
+      "file": "artifacts\\audio\\ru.mp3",
+      "audio_seconds": 9.792,
+      "asr_seconds": 0.48493590008001775,
+      "segments": 2,
+      "round": 5,
+      "language": "ru",
+      "end_to_end_seconds": 2.2381967999972403,
+      "source_chrf": 96.30190800190766,
+      "source_text": "Здравствуйте! Это проверка перевода без интернета. Планшет показывает разговор на русском, английском и иврите.",
+      "passed": true
+    }
+  ],
+  "snapshot": {
+    "sequence": 120,
+    "utterances": [
+      {
+        "utterance_id": "bc42f6617ca7:0",
+        "source_text": "Hello everyone. This is an offline translation test.",
+        "source_language": "en",
+        "start": 0.0,
+        "end": 4.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "Hello everyone. This is an offline translation test."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום לכולם. זו בדיקת תרגום ללא חיבור לאינטרנט."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте, все. Это тест на перевод в режиме офлайн."
+          }
+        }
+      },
+      {
+        "utterance_id": "bc42f6617ca7:1",
+        "source_text": "The tablet shows the conversation in English, Hebrew, and Russian.",
+        "source_language": "en",
+        "start": 4.98,
+        "end": 8.64,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "The tablet shows the conversation in English, Hebrew, and Russian."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטאבילט מציג את השיחה בשפות אנגלית, עברית ורוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На табличке записан разговор на английском, иврите и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "970ed227fe2e:0",
+        "source_text": "שלום לכולם.",
+        "source_language": "he",
+        "start": 0.0,
+        "end": 1.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello everyone."
+          },
+          "he": {
+            "status": "source",
+            "text": "שלום לכולם."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте всем."
+          }
+        }
+      },
+      {
+        "utterance_id": "970ed227fe2e:1",
+        "source_text": "זהו מבחן תרגום מקומי.",
+        "source_language": "he",
+        "start": 2.17,
+        "end": 3.65,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "This is a test of local translation skills."
+          },
+          "he": {
+            "status": "source",
+            "text": "זהו מבחן תרגום מקומי."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Это тест на знание местного языка."
+          }
+        }
+      },
+      {
+        "utterance_id": "970ed227fe2e:2",
+        "source_text": "הטבלט מציג את השיחה בעברית,",
+        "source_language": "he",
+        "start": 4.66,
+        "end": 6.44,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Hebrew."
+          },
+          "he": {
+            "status": "source",
+            "text": "הטבלט מציג את השיחה בעברית,"
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Телефонный аппарат отображает разговор на иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "970ed227fe2e:3",
+        "source_text": "באנגלית וברוסית.",
+        "source_language": "he",
+        "start": 6.98,
+        "end": 8.22,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "In English and Russian."
+          },
+          "he": {
+            "status": "source",
+            "text": "באנגלית וברוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На английском и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "be6026c05d78:0",
+        "source_text": "Здравствуйте! Это проверка перевода без интернета.",
+        "source_language": "ru",
+        "start": 0.0,
+        "end": 4.19,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello! This is a translation verification without an internet connection."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום! זו בדיקה של התרגום ללא שימוש באינטרנט."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Здравствуйте! Это проверка перевода без интернета."
+          }
+        }
+      },
+      {
+        "utterance_id": "be6026c05d78:1",
+        "source_text": "Планшет показывает разговор на русском, английском и иврите.",
+        "source_language": "ru",
+        "start": 5.35,
+        "end": 8.69,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Russian, English, and Hebrew."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטלסקופ מציג את השיחה בשפות רוסית, אנגלית ועברית."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Планшет показывает разговор на русском, английском и иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "078cf0575d18:0",
+        "source_text": "Hello everyone. This is an offline translation test.",
+        "source_language": "en",
+        "start": 0.0,
+        "end": 4.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "Hello everyone. This is an offline translation test."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום לכולם. זו בדיקת תרגום ללא חיבור לאינטרנט."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте, все. Это тест на перевод в режиме офлайн."
+          }
+        }
+      },
+      {
+        "utterance_id": "078cf0575d18:1",
+        "source_text": "The tablet shows the conversation in English, Hebrew, and Russian.",
+        "source_language": "en",
+        "start": 4.98,
+        "end": 8.64,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "The tablet shows the conversation in English, Hebrew, and Russian."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטאבילט מציג את השיחה בשפות אנגלית, עברית ורוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На табличке записан разговор на английском, иврите и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "b112edaadb3e:0",
+        "source_text": "שלום לכולם.",
+        "source_language": "he",
+        "start": 0.0,
+        "end": 1.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello everyone."
+          },
+          "he": {
+            "status": "source",
+            "text": "שלום לכולם."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте всем."
+          }
+        }
+      },
+      {
+        "utterance_id": "b112edaadb3e:1",
+        "source_text": "זהו מבחן תרגום מקומי.",
+        "source_language": "he",
+        "start": 2.17,
+        "end": 3.65,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "This is a test of local translation skills."
+          },
+          "he": {
+            "status": "source",
+            "text": "זהו מבחן תרגום מקומי."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Это тест на знание местного языка."
+          }
+        }
+      },
+      {
+        "utterance_id": "b112edaadb3e:2",
+        "source_text": "הטבלט מציג את השיחה בעברית,",
+        "source_language": "he",
+        "start": 4.66,
+        "end": 6.44,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Hebrew."
+          },
+          "he": {
+            "status": "source",
+            "text": "הטבלט מציג את השיחה בעברית,"
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Телефонный аппарат отображает разговор на иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "b112edaadb3e:3",
+        "source_text": "באנגלית וברוסית.",
+        "source_language": "he",
+        "start": 6.98,
+        "end": 8.22,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "In English and Russian."
+          },
+          "he": {
+            "status": "source",
+            "text": "באנגלית וברוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На английском и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "e3414924621a:0",
+        "source_text": "Здравствуйте! Это проверка перевода без интернета.",
+        "source_language": "ru",
+        "start": 0.0,
+        "end": 4.19,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello! This is a translation verification without an internet connection."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום! זו בדיקה של התרגום ללא שימוש באינטרנט."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Здравствуйте! Это проверка перевода без интернета."
+          }
+        }
+      },
+      {
+        "utterance_id": "e3414924621a:1",
+        "source_text": "Планшет показывает разговор на русском, английском и иврите.",
+        "source_language": "ru",
+        "start": 5.35,
+        "end": 8.69,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Russian, English, and Hebrew."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטלסקופ מציג את השיחה בשפות רוסית, אנגלית ועברית."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Планшет показывает разговор на русском, английском и иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "cb832604b33c:0",
+        "source_text": "Hello everyone. This is an offline translation test.",
+        "source_language": "en",
+        "start": 0.0,
+        "end": 4.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "Hello everyone. This is an offline translation test."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום לכולם. זו בדיקת תרגום ללא חיבור לאינטרנט."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте, все. Это тест на перевод в режиме офлайн."
+          }
+        }
+      },
+      {
+        "utterance_id": "cb832604b33c:1",
+        "source_text": "The tablet shows the conversation in English, Hebrew, and Russian.",
+        "source_language": "en",
+        "start": 4.98,
+        "end": 8.64,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "The tablet shows the conversation in English, Hebrew, and Russian."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטאבילט מציג את השיחה בשפות אנגלית, עברית ורוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На табличке записан разговор на английском, иврите и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "6e3b633cd05d:0",
+        "source_text": "שלום לכולם.",
+        "source_language": "he",
+        "start": 0.0,
+        "end": 1.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello everyone."
+          },
+          "he": {
+            "status": "source",
+            "text": "שלום לכולם."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте всем."
+          }
+        }
+      },
+      {
+        "utterance_id": "6e3b633cd05d:1",
+        "source_text": "זהו מבחן תרגום מקומי.",
+        "source_language": "he",
+        "start": 2.17,
+        "end": 3.65,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "This is a test of local translation skills."
+          },
+          "he": {
+            "status": "source",
+            "text": "זהו מבחן תרגום מקומי."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Это тест на знание местного языка."
+          }
+        }
+      },
+      {
+        "utterance_id": "6e3b633cd05d:2",
+        "source_text": "הטבלט מציג את השיחה בעברית,",
+        "source_language": "he",
+        "start": 4.66,
+        "end": 6.44,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Hebrew."
+          },
+          "he": {
+            "status": "source",
+            "text": "הטבלט מציג את השיחה בעברית,"
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Телефонный аппарат отображает разговор на иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "6e3b633cd05d:3",
+        "source_text": "באנגלית וברוסית.",
+        "source_language": "he",
+        "start": 6.98,
+        "end": 8.22,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "In English and Russian."
+          },
+          "he": {
+            "status": "source",
+            "text": "באנגלית וברוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На английском и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "d2cb442956f7:0",
+        "source_text": "Здравствуйте! Это проверка перевода без интернета.",
+        "source_language": "ru",
+        "start": 0.0,
+        "end": 4.19,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello! This is a translation verification without an internet connection."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום! זו בדיקה של התרגום ללא שימוש באינטרנט."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Здравствуйте! Это проверка перевода без интернета."
+          }
+        }
+      },
+      {
+        "utterance_id": "d2cb442956f7:1",
+        "source_text": "Планшет показывает разговор на русском, английском и иврите.",
+        "source_language": "ru",
+        "start": 5.35,
+        "end": 8.69,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Russian, English, and Hebrew."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטלסקופ מציג את השיחה בשפות רוסית, אנגלית ועברית."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Планшет показывает разговор на русском, английском и иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "ee00ca433a09:0",
+        "source_text": "Hello everyone. This is an offline translation test.",
+        "source_language": "en",
+        "start": 0.0,
+        "end": 4.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "Hello everyone. This is an offline translation test."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום לכולם. זו בדיקת תרגום ללא חיבור לאינטרנט."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте, все. Это тест на перевод в режиме офлайн."
+          }
+        }
+      },
+      {
+        "utterance_id": "ee00ca433a09:1",
+        "source_text": "The tablet shows the conversation in English, Hebrew, and Russian.",
+        "source_language": "en",
+        "start": 4.98,
+        "end": 8.64,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "The tablet shows the conversation in English, Hebrew, and Russian."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטאבילט מציג את השיחה בשפות אנגלית, עברית ורוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На табличке записан разговор на английском, иврите и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "b990b87e420a:0",
+        "source_text": "שלום לכולם.",
+        "source_language": "he",
+        "start": 0.0,
+        "end": 1.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello everyone."
+          },
+          "he": {
+            "status": "source",
+            "text": "שלום לכולם."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте всем."
+          }
+        }
+      },
+      {
+        "utterance_id": "b990b87e420a:1",
+        "source_text": "זהו מבחן תרגום מקומי.",
+        "source_language": "he",
+        "start": 2.17,
+        "end": 3.65,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "This is a test of local translation skills."
+          },
+          "he": {
+            "status": "source",
+            "text": "זהו מבחן תרגום מקומי."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Это тест на знание местного языка."
+          }
+        }
+      },
+      {
+        "utterance_id": "b990b87e420a:2",
+        "source_text": "הטבלט מציג את השיחה בעברית,",
+        "source_language": "he",
+        "start": 4.66,
+        "end": 6.44,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Hebrew."
+          },
+          "he": {
+            "status": "source",
+            "text": "הטבלט מציג את השיחה בעברית,"
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Телефонный аппарат отображает разговор на иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "b990b87e420a:3",
+        "source_text": "באנגלית וברוסית.",
+        "source_language": "he",
+        "start": 6.98,
+        "end": 8.22,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "In English and Russian."
+          },
+          "he": {
+            "status": "source",
+            "text": "באנגלית וברוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На английском и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "63767df6082c:0",
+        "source_text": "Здравствуйте! Это проверка перевода без интернета.",
+        "source_language": "ru",
+        "start": 0.0,
+        "end": 4.19,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello! This is a translation verification without an internet connection."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום! זו בדיקה של התרגום ללא שימוש באינטרנט."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Здравствуйте! Это проверка перевода без интернета."
+          }
+        }
+      },
+      {
+        "utterance_id": "63767df6082c:1",
+        "source_text": "Планшет показывает разговор на русском, английском и иврите.",
+        "source_language": "ru",
+        "start": 5.35,
+        "end": 8.69,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Russian, English, and Hebrew."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטלסקופ מציג את השיחה בשפות רוסית, אנגלית ועברית."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Планшет показывает разговор на русском, английском и иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "2ca86845f25f:0",
+        "source_text": "Hello everyone. This is an offline translation test.",
+        "source_language": "en",
+        "start": 0.0,
+        "end": 4.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "Hello everyone. This is an offline translation test."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום לכולם. זו בדיקת תרגום ללא חיבור לאינטרנט."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте, все. Это тест на перевод в режиме офлайн."
+          }
+        }
+      },
+      {
+        "utterance_id": "2ca86845f25f:1",
+        "source_text": "The tablet shows the conversation in English, Hebrew, and Russian.",
+        "source_language": "en",
+        "start": 4.98,
+        "end": 8.64,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "source",
+            "text": "The tablet shows the conversation in English, Hebrew, and Russian."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטאבילט מציג את השיחה בשפות אנגלית, עברית ורוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На табличке записан разговор на английском, иврите и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "c1002968fbd3:0",
+        "source_text": "שלום לכולם.",
+        "source_language": "he",
+        "start": 0.0,
+        "end": 1.04,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello everyone."
+          },
+          "he": {
+            "status": "source",
+            "text": "שלום לכולם."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Здравствуйте всем."
+          }
+        }
+      },
+      {
+        "utterance_id": "c1002968fbd3:1",
+        "source_text": "זהו מבחן תרגום מקומי.",
+        "source_language": "he",
+        "start": 2.17,
+        "end": 3.65,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "This is a test of local translation skills."
+          },
+          "he": {
+            "status": "source",
+            "text": "זהו מבחן תרגום מקומי."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Это тест на знание местного языка."
+          }
+        }
+      },
+      {
+        "utterance_id": "c1002968fbd3:2",
+        "source_text": "הטבלט מציג את השיחה בעברית,",
+        "source_language": "he",
+        "start": 4.66,
+        "end": 6.44,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Hebrew."
+          },
+          "he": {
+            "status": "source",
+            "text": "הטבלט מציג את השיחה בעברית,"
+          },
+          "ru": {
+            "status": "complete",
+            "text": "Телефонный аппарат отображает разговор на иврите."
+          }
+        }
+      },
+      {
+        "utterance_id": "c1002968fbd3:3",
+        "source_text": "באנגלית וברוסית.",
+        "source_language": "he",
+        "start": 6.98,
+        "end": 8.22,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "In English and Russian."
+          },
+          "he": {
+            "status": "source",
+            "text": "באנגלית וברוסית."
+          },
+          "ru": {
+            "status": "complete",
+            "text": "На английском и русском языках."
+          }
+        }
+      },
+      {
+        "utterance_id": "9a944281928f:0",
+        "source_text": "Здравствуйте! Это проверка перевода без интернета.",
+        "source_language": "ru",
+        "start": 0.0,
+        "end": 4.19,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "Hello! This is a translation verification without an internet connection."
+          },
+          "he": {
+            "status": "complete",
+            "text": "שלום! זו בדיקה של התרגום ללא שימוש באינטרנט."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Здравствуйте! Это проверка перевода без интернета."
+          }
+        }
+      },
+      {
+        "utterance_id": "9a944281928f:1",
+        "source_text": "Планшет показывает разговор на русском, английском и иврите.",
+        "source_language": "ru",
+        "start": 5.35,
+        "end": 8.69,
+        "speaker_id": null,
+        "translations": {
+          "en": {
+            "status": "complete",
+            "text": "The tablet displays the conversation in Russian, English, and Hebrew."
+          },
+          "he": {
+            "status": "complete",
+            "text": "הטלסקופ מציג את השיחה בשפות רוסית, אנגלית ועברית."
+          },
+          "ru": {
+            "status": "source",
+            "text": "Планшет показывает разговор на русском, английском и иврите."
+          }
+        }
+      }
+    ],
+    "health": {
+      "completed": 80,
+      "errors": 0,
+      "expired": 0,
+      "dropped": 0,
+      "pending": 0,
+      "processing": false
+    }
+  },
+  "limitations": "Synthetic clean speech; does not validate room acoustics, microphone disconnects, code-switching or human translation adequacy."
+}

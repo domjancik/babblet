@@ -1,0 +1,10 @@
+{
+  "id": "babblet",
+  "name": "Babblet",
+  "version": "0.1.0",
+  "loadsBackend": false,
+  "entry": "/ui/Main.qml",
+  "canHaveMultipleFrontends": false,
+  "supportsScaling": true,
+  "aspectRatio": "original"
+}

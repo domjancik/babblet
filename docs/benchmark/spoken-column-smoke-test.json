@@ -1,0 +1,36 @@
+{
+  "synthetic_text_only": true,
+  "passed": true,
+  "records": [
+    {
+      "case": "mislabel",
+      "raw": "Bonjour tout le monde.",
+      "english": "Hello everyone.",
+      "passed": true
+    },
+    {
+      "case": "fr",
+      "raw": "Bonjour tout le monde.",
+      "english": "Hello everyone.",
+      "passed": true
+    },
+    {
+      "case": "he",
+      "raw": "שלום לכולם.",
+      "english": "Hello everyone.",
+      "passed": true
+    },
+    {
+      "case": "ru",
+      "raw": "Здравствуйте всем.",
+      "english": "Hello everyone.",
+      "passed": true
+    },
+    {
+      "case": "en",
+      "raw": "Hello everyone.",
+      "english": "Hello everyone.",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.qml text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.ttf binary
+*.ttc binary
+*.png binary
+
+# Preserve upstream license text verbatim.
+remarkable/fonts/*-OFL.txt -whitespace

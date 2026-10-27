@@ -1,0 +1,159 @@
+{
+  "en": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "he": {
+    "file": "NotoSansHebrew.ttf",
+    "family": "Noto Sans Hebrew"
+  },
+  "ru": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "ar": {
+    "file": "NotoSansArabic.ttf",
+    "family": "Noto Sans Arabic"
+  },
+  "fr": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "de": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "es": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "pt": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "it": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "zh": {
+    "file": "NotoSansCJK-Regular.ttc",
+    "face": 2,
+    "family": "Noto Sans CJK SC"
+  },
+  "zh-Hant": {
+    "file": "NotoSansCJK-Regular.ttc",
+    "face": 3,
+    "family": "Noto Sans CJK TC"
+  },
+  "ja": {
+    "file": "NotoSansCJK-Regular.ttc",
+    "face": 0,
+    "family": "Noto Sans CJK JP"
+  },
+  "ko": {
+    "file": "NotoSansCJK-Regular.ttc",
+    "face": 1,
+    "family": "Noto Sans CJK KR"
+  },
+  "tr": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "uk": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "pl": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "cs": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "nl": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "hi": {
+    "file": "NotoSansDevanagari.ttf",
+    "family": "Noto Sans Devanagari"
+  },
+  "th": {
+    "file": "NotoSansThai.ttf",
+    "family": "Noto Sans Thai"
+  },
+  "vi": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "ms": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "id": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "tl": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "km": {
+    "file": "NotoSansKhmer.ttf",
+    "family": "Noto Sans Khmer"
+  },
+  "my": {
+    "file": "NotoSansMyanmar.ttf",
+    "family": "Noto Sans Myanmar"
+  },
+  "fa": {
+    "file": "NotoSansArabic.ttf",
+    "family": "Noto Sans Arabic"
+  },
+  "gu": {
+    "file": "NotoSansGujarati.ttf",
+    "family": "Noto Sans Gujarati"
+  },
+  "ur": {
+    "file": "NotoSansArabic.ttf",
+    "family": "Noto Sans Arabic"
+  },
+  "te": {
+    "file": "NotoSansTelugu.ttf",
+    "family": "Noto Sans Telugu"
+  },
+  "mr": {
+    "file": "NotoSansDevanagari.ttf",
+    "family": "Noto Sans Devanagari"
+  },
+  "bn": {
+    "file": "NotoSansBengali.ttf",
+    "family": "Noto Sans Bengali"
+  },
+  "ta": {
+    "file": "NotoSansTamil.ttf",
+    "family": "Noto Sans Tamil"
+  },
+  "bo": {
+    "file": "NotoSerifTibetan.ttf",
+    "family": "Noto Serif Tibetan"
+  },
+  "kk": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "mn": {
+    "file": "NotoSerif.ttf",
+    "family": "Noto Serif"
+  },
+  "ug": {
+    "file": "NotoSansArabic.ttf",
+    "family": "Noto Sans Arabic"
+  },
+  "yue": {
+    "file": "NotoSansCJK-Regular.ttc",
+    "face": 4,
+    "family": "Noto Sans CJK HK"
+  }
+}

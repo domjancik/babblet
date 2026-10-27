@@ -1,0 +1,52 @@
+{
+  "synthetic_audio_only": true,
+  "passed": true,
+  "results": [
+    {
+      "language": "en",
+      "passed": true,
+      "detection": {
+        "code": "en",
+        "probability": 0.998,
+        "guided_language": "en"
+      }
+    },
+    {
+      "language": "he",
+      "passed": true,
+      "detection": {
+        "code": "he",
+        "probability": 0.995,
+        "guided_language": "he"
+      }
+    },
+    {
+      "language": "ru",
+      "passed": true,
+      "detection": {
+        "code": "ru",
+        "probability": 1.0,
+        "guided_language": "ru"
+      }
+    }
+  ],
+  "clear_outsider_recognized": true,
+  "outsider_suggested": true,
+  "guidance": {
+    "expected": [
+      "en"
+    ],
+    "suggested": [
+      {
+        "code": "he",
+        "name": "Hebrew",
+        "observations": 2
+      }
+    ],
+    "detected": {
+      "code": "he",
+      "probability": 0.995,
+      "guided_language": "he"
+    }
+  }
+}

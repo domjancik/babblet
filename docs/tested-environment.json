@@ -1,0 +1,19 @@
+{
+  "python": "3.12.8",
+  "packages": {
+    "torch": "2.9.1+cu126",
+    "numpy": "2.4.6",
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.4",
+    "transformers": "4.57.3",
+    "sacrebleu": "2.6.0",
+    "av": "16.0.1",
+    "fastapi": "0.162.0",
+    "uvicorn": "0.54.0",
+    "httpx": "0.28.1",
+    "sounddevice": "0.5.6",
+    "onnxruntime": "1.31.0"
+  },
+  "llama_build": "b11905",
+  "gpu": "RTX 4070 Laptop 8GB"
+}
